@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "point-of-sale-system/1.0.0": {
+        "runtime": {
+          "point-of-sale-system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "point-of-sale-system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

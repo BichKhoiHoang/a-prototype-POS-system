@@ -1,0 +1,15 @@
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/point-of-sale-system.deps.json
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/point-of-sale-system.runtimeconfig.json
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/point-of-sale-system.runtimeconfig.dev.json
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/point-of-sale-system.dll
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/ref/point-of-sale-system.dll
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/bin/Debug/net5.0/point-of-sale-system.pdb
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.csproj.AssemblyReference.cache
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.AssemblyInfoInputs.cache
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.AssemblyInfo.cs
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.csproj.CoreCompileInputs.cache
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.dll
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/ref/point-of-sale-system.dll
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.pdb
+/Users/khoihoang/Desktop/Semester2 (Year1)/ITD121/Major Project/point-of-sale-system/point-of-sale-system/obj/Debug/net5.0/point-of-sale-system.genruntimeconfig.cache
